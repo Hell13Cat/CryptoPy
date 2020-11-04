@@ -1,4 +1,7 @@
 # CryptoPy
+
+    1.0 version
+
 Folder tree encryption system. I am not responsible for the misuse of the script.
 
 # Installation

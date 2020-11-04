@@ -4,6 +4,8 @@
 
 Folder tree encryption system. I am not responsible for the misuse of the script.
 
+[Русская инструкция/Russian instruction](https://github.com/Hell13Cat/CryptoPy/blob/main/README-RU.md)
+
 # Installation
 1. Download and install Python 3.
 2. Install the "cryptography" module via the PIP.
